@@ -1,0 +1,22 @@
+﻿<Window
+	xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+	xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+	xmlns:StudyDiffuseShading_ViewModel="clr-namespace:StudyDiffuseShading.ViewModel" xmlns:d="http://schemas.microsoft.com/expression/blend/2008" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" mc:Ignorable="d"
+	x:Class="StudyDiffuseShading.MainWindow"
+	x:Name="Window"
+	Title="MainWindow"
+	Width="640" Height="480">
+
+	<Window.Resources>
+		<StudyDiffuseShading_ViewModel:MainWindowVM x:Key="MainWindowVMDataSource" d:IsDataSource="True"/>
+	</Window.Resources>
+
+	<Border x:Name="LayoutRoot" BorderThickness="10" DataContext="{Binding Source={StaticResource MainWindowVMDataSource}}">
+		<DockPanel>
+			<StackPanel DockPanel.Dock="Bottom" Orientation="Horizontal" Margin="0,10,0,0" HorizontalAlignment="Right">
+				<Button x:Name="buttonRender" Content="Render" Width="75" Click="Button_Click"/>
+			</StackPanel>
+			<Image x:Name="imageRendered" DockPanel.Dock="Top" Source="{Binding Image}"/>
+		</DockPanel>
+	</Border>
+</Window>

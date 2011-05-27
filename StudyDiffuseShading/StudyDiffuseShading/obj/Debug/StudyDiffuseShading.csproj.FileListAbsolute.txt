@@ -1,0 +1,12 @@
+C:\Users\nobnak\Documents\Expression\Blend 4\Projects\StudyDiffuseShading\StudyDiffuseShading\bin\Debug\StudyDiffuseShading.exe
+C:\Users\nobnak\Documents\Expression\Blend 4\Projects\StudyDiffuseShading\StudyDiffuseShading\bin\Debug\StudyDiffuseShading.pdb
+C:\Users\nobnak\Documents\Expression\Blend 4\Projects\StudyDiffuseShading\StudyDiffuseShading\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\nobnak\Documents\Expression\Blend 4\Projects\StudyDiffuseShading\StudyDiffuseShading\obj\Debug\MainWindow.baml
+C:\Users\nobnak\Documents\Expression\Blend 4\Projects\StudyDiffuseShading\StudyDiffuseShading\obj\Debug\MainWindow.g.cs
+C:\Users\nobnak\Documents\Expression\Blend 4\Projects\StudyDiffuseShading\StudyDiffuseShading\obj\Debug\App.g.cs
+C:\Users\nobnak\Documents\Expression\Blend 4\Projects\StudyDiffuseShading\StudyDiffuseShading\obj\Debug\StudyDiffuseShading_MarkupCompile.cache
+C:\Users\nobnak\Documents\Expression\Blend 4\Projects\StudyDiffuseShading\StudyDiffuseShading\obj\Debug\StudyDiffuseShading.g.resources
+C:\Users\nobnak\Documents\Expression\Blend 4\Projects\StudyDiffuseShading\StudyDiffuseShading\obj\Debug\StudyDiffuseShading.exe
+C:\Users\nobnak\Documents\Expression\Blend 4\Projects\StudyDiffuseShading\StudyDiffuseShading\obj\Debug\StudyDiffuseShading.pdb
+C:\Users\nobnak\Documents\Expression\Blend 4\Projects\StudyDiffuseShading\StudyDiffuseShading\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\nobnak\Documents\Expression\Blend 4\Projects\StudyDiffuseShading\StudyDiffuseShading\obj\Debug\StudyDiffuseShading_MarkupCompile.lref
